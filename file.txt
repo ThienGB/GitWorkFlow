@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Some thing changes
+=======
+Some changes
+>>>>>>> fa77f9e (Finish task 1)
